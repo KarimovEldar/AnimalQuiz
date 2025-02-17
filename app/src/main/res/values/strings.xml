@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AnimalQuiz</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+    <string name="welcome">Welcome</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="start">Start</string>
+    <string name="user_name">e.g Eldar</string>
+    <string name="title_activity_questions">QuestionsActivity</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="progressText">1/13</string>
+    <string name="optionText">AnimalName</string>
+    <string name="submit">Submit</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="finish">Finish</string>
+</resources>
