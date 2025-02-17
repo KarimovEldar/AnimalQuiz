@@ -1,4 +1,4 @@
-## Project #1 
+## Pr #1 
 
 <div align="center">
   <h1>AnimalQuiz</h1>
