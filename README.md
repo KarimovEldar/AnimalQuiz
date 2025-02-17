@@ -1,7 +1,7 @@
 ## Project #1 
 
 <div align="center">
-  <h2>Bu yazı ortalanmış bir başlıktır</h2>
+  <h2>AnimalQuiz</h2>
 </div>
 
 
