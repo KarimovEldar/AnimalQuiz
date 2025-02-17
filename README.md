@@ -4,6 +4,9 @@
   <h2>AnimalQuiz</h2>
 </div>
 
+<p align="center">
+  <span style="color:red; font-size:20px;">AnimalQuiz</span>
+</p>
 
 ### 📱 Screenshots
 <table>
