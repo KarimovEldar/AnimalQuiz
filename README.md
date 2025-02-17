@@ -1,7 +1,7 @@
 ## Project #1 
 ---
 <hr style="border: 1px solid #ccc;">
-<hr style="border: 0; border-top: 1px solid #e0e0e0;"/>
+<hr style="border: 0; border-top: 1px solid #e0e0e0;">
 
 ### 📱 Screenshots
 <table>
