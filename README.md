@@ -3,11 +3,6 @@
 <div align="center">
   <h2>AnimalQuiz</h2>
 </div>
-  <pre><code>[31mBu kırmızı bir metindir[0m</code></pre>
-
-<p align="center">
-  <span style="color:red; font-size:20px;">AnimalQuiz</span>
-</p>
 
 ### 📱 Screenshots
 <table>
