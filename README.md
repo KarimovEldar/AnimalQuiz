@@ -14,8 +14,6 @@
 </table>
 
 ### ✨ Features
-
 ---
-
 - ViewBinding for UI interactions  
 - Intent for navigation between screens
