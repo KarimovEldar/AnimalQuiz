@@ -1,7 +1,7 @@
 ## Project #1 
 ### 📱 Screenshots
 ---
-
+___
 <table>
   <tr>
     <th>Start Screen</th>
