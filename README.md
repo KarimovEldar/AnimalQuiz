@@ -1,7 +1,7 @@
 ## Project #1 
 
 <div align="center">
-  <h2>AnimalQuiz</h2>
+  <h1>AnimalQuiz</h1>
 </div>
 
 ### 📱 Screenshots
