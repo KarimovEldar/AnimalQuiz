@@ -3,9 +3,9 @@
 
 <table>
   <tr>
-    <th>Giriş Ekranı</th>
-    <th>Oyun/Quiz Ekranı</th>
-    <th>Bitiş Ekranı</th>
+    <th>Start Screen</th>
+    <th>Game Screen</th>
+    <th>End Screen</th>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b25b4d67-9993-49be-9568-8d1cc6aeb9f4" width="250"></td>
@@ -14,4 +14,6 @@
   </tr>
 </table>
 
-### Libraries and technologies used
+### Features
+- ViewBinding for UI interactions  
+- Intent for navigation between screens
