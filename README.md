@@ -1,7 +1,4 @@
 ## Project #1 
----
-<hr style="border: 0.5px solid #ccc;">
-
 ### 📱 Screenshots
 <table>
   <tr>
@@ -15,7 +12,6 @@
     <td><img src="https://github.com/user-attachments/assets/e9d23633-750c-4d83-af51-5146f5966851" width="250"></td>
   </tr>
 </table>
-
 ### ✨ Features
 
 - ViewBinding for UI interactions  
