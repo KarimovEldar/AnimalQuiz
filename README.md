@@ -1,7 +1,6 @@
 ## Project #1 
-### 📱 Screenshots
 ---
-___
+### 📱 Screenshots
 <table>
   <tr>
     <th>Start Screen</th>
@@ -16,6 +15,6 @@ ___
 </table>
 
 ### ✨ Features
----
+
 - ViewBinding for UI interactions  
 - Intent for navigation between screens
